@@ -16,7 +16,7 @@ public class DataTypes {
 		System.out.println(state);
 		System.out.println(city);
 		
-		boolean isRain = true;
+		boolean isRain = false;
 		System.out.println(isRain);
 		
 		//example of all primitive Datatypes
