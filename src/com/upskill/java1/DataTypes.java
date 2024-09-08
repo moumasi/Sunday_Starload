@@ -31,6 +31,9 @@ public class DataTypes {
 		boolean l = true;    // boolean is define true or false
 		boolean m = true; 
 		
+		//This line to validate git pull request
+		System.out.println("Git Pull Request");
+		
 	}
 
 }
