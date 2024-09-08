@@ -16,7 +16,7 @@ public class DataTypes {
 		System.out.println(state);
 		System.out.println(city);
 		
-		boolean isRain = false;
+		boolean isRain = true;
 		System.out.println(isRain);
 		
 		//example of all primitive Datatypes
@@ -29,7 +29,7 @@ public class DataTypes {
 		double j = 3.236;// double is to be decimal number.
 		char k = 'T'; //char will be single letter with single quotation
 		boolean l = true;    // boolean is define true or false
-		boolean m = false; 
+		boolean m = true; 
 		
 	}
 
